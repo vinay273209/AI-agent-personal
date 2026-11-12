@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+agent_memory.db
+agent_memory.db-*
+.venv/
+venv/
